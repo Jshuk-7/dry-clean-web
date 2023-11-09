@@ -1,0 +1,20 @@
+/*
+    * Mobile Phones
+*/
+@media only screen and (max-width: 600px) {
+}
+
+/*
+    * Desktop Devices
+*/
+@media only screen and (min-width: 600px) {
+}
+
+/*
+    * All Devices
+*/
+
+.ftr-contact {
+    margin-left: 1rem;
+    font-size: 0.85rem;
+}

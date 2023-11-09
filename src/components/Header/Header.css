@@ -1,0 +1,20 @@
+/*
+    * Mobile Phones
+*/
+@media only screen and (max-width: 600px) {
+}
+
+/*
+    * Desktop Devices
+*/
+@media only screen and (min-width: 600px) {
+    .nav-link:hover {
+        color: blue;
+        border: 1px solid gray;
+        border-radius: 1rem;
+    }
+}
+
+/*
+    * All Devices
+*/
